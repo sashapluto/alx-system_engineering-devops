@@ -1,0 +1,2 @@
+#!/bineabash
+ls -mpa *, ./

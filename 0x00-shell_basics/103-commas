@@ -1,2 +1,2 @@
-#!/bineabash
-ls -mpa *, ./
+#!/bin/bash
+ls -mpa *,
